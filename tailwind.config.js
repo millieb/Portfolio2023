@@ -11,7 +11,8 @@ module.exports = {
         brown: "rgb(30,30,17);"
       },
       backgroundColor: {
-        'background-color': '#512D6D',
+        'background-color': '#322653',
+        'custom-purple': '#512D6D',
         'custom-white': '#EEEEEE',
         'custom-salmon': '#F8485E',
         'custom-blue': '#00C1D4',
