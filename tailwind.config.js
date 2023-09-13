@@ -19,6 +19,7 @@ module.exports = {
       },
       textColor: {
         'custom-grey': '#20262E',
+        'custom-salmon': '#F8485E',
       },
     },
   },

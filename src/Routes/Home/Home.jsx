@@ -3,7 +3,7 @@ import homeImage from "../../assets/svg-1.svg";
 
 const Home = () => {
     return (
-        <div className="home flex relative">
+        <div className="information-container flex relative">
             <div className="flex flex-col flex-grow items-center justify-center text-center">
                 <h1 className="mb-4 text-3xl font-extrabold text-gray-900 dark:text-white md:text-5xl lg:text-6xl">
                     Hi, I&apos;m Mildred Brito
@@ -16,7 +16,7 @@ const Home = () => {
                 <img
                     src={homeImage}
                     alt="Home image woman on computer"
-                    className="w-[15rem] h-[15rem] object-cover"
+                    className="w-[25rem] h-[25rem] object-cover"
                 />
             </div>
         </div>

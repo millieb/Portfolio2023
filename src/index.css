@@ -21,7 +21,7 @@
     @apply flex items-center mt-2 p-4 rounded-lg cursor-pointer hover:bg-custom-white
     transition-all duration-300 text-custom-grey
   }
-  .home {
+  .information-container {
     @apply flex flex-col items-start p-10 h-[100%] w-[100%]
   }
 }

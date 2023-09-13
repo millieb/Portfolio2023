@@ -5,28 +5,34 @@ import {AiFillGithub} from "react-icons/ai";
 export const data = [
     {
         id: 1,
-        text: "About"
+        text: "About",
+        href: '/about'
     },
     {
         id: 2,
-        text: "Skills"
+        text: "Skills",
+        href: '/skills'
     },
     {
         id: 3,
-        text: "Work"
+        text: "Work",
+        href: '/work'
     },
     {
         id: 4,
-        text: "Contact"
+        text: "Contact",
+        href: '/contact'
     },
     {
         id: 5,
         icon: <BiLogoLinkedinSquare />,
-        text: "LinkedIn"
+        text: "LinkedIn",
+        href: 'https://www.linkedin.com/in/mildredbrito/'
     },
     {
         id: 6,
         icon: <AiFillGithub />,
-        text: "GitHub"
+        text: "GitHub",
+        href: 'https://github.com/millieb'
     },
 ];
