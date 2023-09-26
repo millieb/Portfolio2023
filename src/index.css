@@ -14,7 +14,7 @@
     font-family: "Poppins", serif;
   }
   .sidebar-container {
-    @apply bg-glass h-[96%] w-[10rem] rounded-3xl ml-6 p-4 border transition-all
+    @apply bg-glass h-[96%] w-[15rem] rounded-3xl ml-6 p-4 mt-4 border transition-all
     duration-500 border-solid border-glass relative
   }
   .sidebar {
@@ -22,7 +22,8 @@
     transition-all duration-300 text-custom-grey
   }
   .information-container {
-    @apply flex flex-col items-start p-10 h-[100%] w-[100%]
+    @apply flex flex-col items-start p-10 h-auto min-h-[100%] w-full;
   }
+
 }
 

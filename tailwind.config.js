@@ -20,6 +20,11 @@ module.exports = {
       textColor: {
         'custom-grey': '#20262E',
         'custom-salmon': '#F8485E',
+        'custom-lila': '#9288F8',
+        'custom-blue': '#00C1D4',
+      },
+      borderColor: {
+        'custom-blue': '#00C1D4',
       },
     },
   },

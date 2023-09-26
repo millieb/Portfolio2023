@@ -9,14 +9,14 @@ const Home = () => {
                     Hi, I&apos;m Mildred Brito
                 </h1>
                 <div className="text-3xl font-bold dark:text-white">
-                    Full Stack Developer
+                    Full Stack Software Developer
                 </div>
             </div>
             <div className="absolute inset-0 grid place-items-end p-4">
                 <img
                     src={homeImage}
                     alt="Home image woman on computer"
-                    className="w-[25rem] h-[25rem] object-cover"
+                    className="w-[22rem] h-[22rem] object-cover"
                 />
             </div>
         </div>

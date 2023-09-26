@@ -10,29 +10,21 @@ export const data = [
     },
     {
         id: 2,
-        text: "Skills",
-        href: '/skills'
-    },
-    {
-        id: 3,
         text: "Work",
         href: '/work'
     },
     {
-        id: 4,
-        text: "Contact",
-        href: '/contact'
-    },
-    {
-        id: 5,
+        id: 3,
         icon: <BiLogoLinkedinSquare />,
         text: "LinkedIn",
-        href: 'https://www.linkedin.com/in/mildredbrito/'
+        href: 'https://www.linkedin.com/in/mildredbrito/',
+        target: "_blank",
     },
     {
-        id: 6,
+        id: 4,
         icon: <AiFillGithub />,
         text: "GitHub",
-        href: 'https://github.com/millieb'
+        href: 'https://github.com/millieb',
+        target: "_blank",
     },
 ];

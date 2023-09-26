@@ -1,5 +1,4 @@
 import React from 'react';
-// import homeImage from "../../assets/svg-1.svg";
 
 const About = () => {
     return (
@@ -14,6 +13,9 @@ const About = () => {
                     solutions. I am committed to continuously expanding my knowledge and staying up to date with the
                     latest industry trends to deliver high-quality, efficient, and reliable software. I thrive in
                     collaborative environments and I am excited to work with diverse teams to create impactful solutions.
+                </div>
+                <div className="text-2xl dark:text-white text-left mt-6">
+                    Contact: mildred.brito@outlook.com
                 </div>
             </div>
         </div>
